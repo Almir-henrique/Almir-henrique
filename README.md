@@ -26,13 +26,13 @@ Busco evolução contínua, boas práticas de código e aprendizado em **tecnolo
 🔹 [**conex-site-NEXUS-WEB**](#) — Site institucional desenvolvido para a Nexus Web, com design responsivo e integração de APIs.  
 🔹 [**site-ibmemorial**](#) — Projeto voltado para memorial digital, com layout limpo e navegação intuitiva.  
 
-*(Você pode substituir o `#` pelos links reais dos repositórios acima.)*
+
 
 ---
 
 ## 📫 Contato  
 
-📧 **E-mail:** – *adicione aqui seu e-mail profissional*  
+📧 **E-mail:** – *almirhenrique18@gmail.com*  
 💼 **LinkedIn:** – [www.linkedin.com/in/henrique-dantas-profile](#)  
 
 ---
