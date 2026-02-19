@@ -2,62 +2,81 @@
 
 💻 Desenvolvedor Web com foco em Back-End  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Recife - PE  
+📍 Recife - PE, Brasil  
 
-Atuo em **projetos freelancer pela Nexus Web**, iniciativa criada por mim, desenvolvendo **sites e soluções personalizadas para pequenos negócios**.  
-Busco evolução contínua, boas práticas de código e aprendizado em **tecnologias modernas como React e Node.js**.  
+Atuo como desenvolvedor web freelancer através da **Nexus Web**, iniciativa criada para desenvolver soluções digitais completas, incluindo sites institucionais, APIs REST e sistemas web personalizados.
+
+Tenho foco em evolução contínua, boas práticas de código e desenvolvimento full stack, integrando front-end, back-end e banco de dados.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas  
+## 🚀 Stack Tecnológica
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+### 🖥️ Front-End
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
+### ⚙️ Back-End
+- Node.js
+- Express
+- APIs REST
+- Arquitetura MVC
+
+### 🗄️ Banco de Dados
+- MySQL
+- SQL (CRUD)
+- Modelagem Relacional
+
+### 🧰 Ferramentas
+- Git & GitHub
+- VS Code
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+</p>
+ 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### 🔹 Sistema CRUD com Node.js e MySQL
 API REST estruturada em padrão MVC com operações CRUD completas.
+
 🔗 [Ver repositório](LINK_AQUI)
+
+---
 
 ### 🔹 Conex Contadores
 Site institucional responsivo com integração de formulário via EmailJS.
+
 🔗 https://conexcontadores.com.br
 
-🔹 [**site-ibmemorial**](#) — Projeto voltado para memorial digital, com layout limpo e navegação intuitiva.  
+---
 
-
+### 🔹 site-ibmemorial
+Projeto em desenvolvimento voltado para presença digital da Igreja Batista Memorial do Recife, com foco em estrutura escalável e futuras integrações com API e banco de dados.
 
 ---
 
-## 📫 Contato  
+## 📫 Contato
 
-📧 **E-mail:** – *almirhenrique18@gmail.com*  
-💼 **LinkedIn:** – [www.linkedin.com/in/henrique-dantas-profile](#)  
+📧 Email: almirhenrique18@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/henrique-dantas-profile
 
 ---
 
-## 🌎 Sobre mim  
+## 🌎 Sobre mim
 
 🇧🇷 Brasileiro  
-🗣️ Idiomas: Português | (aprendendo Inglês)  
-📍 Aberto a colaborações e novos desafios na área de tecnologia.  
+🗣️ Português | Aprendendo Inglês  
+🚀 Aberto a oportunidades, colaborações e novos desafios em desenvolvimento web.
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almir-henrique&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almir-henrique&layout=compact&theme=tokyonight)
-
----
-
-⭐ *“A tecnologia move o mundo, mas a curiosidade é o que o faz evoluir.”*  
+⭐ _"A tecnologia move o mundo, mas a curiosidade é o que o faz evoluir."_  
