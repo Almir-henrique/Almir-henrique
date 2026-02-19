@@ -1,7 +1,8 @@
-# 👋 Olá, eu sou o Henrique Dantas  
+# 👋 Olá, eu sou Henrique Dantas
 
-💻 **Profissional de T.I em formação**, com foco em **Desenvolvimento Front-End**.  
-Tenho experiência prática na **criação de interfaces responsivas** utilizando **HTML, CSS e JavaScript**, além de **versionamento de código com Git e GitHub**.  
+💻 Desenvolvedor Web com foco em Back-End  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📍 Recife - PE  
 
 Atuo em **projetos freelancer pela Nexus Web**, iniciativa criada por mim, desenvolvendo **sites e soluções personalizadas para pequenos negócios**.  
 Busco evolução contínua, boas práticas de código e aprendizado em **tecnologias modernas como React e Node.js**.  
@@ -21,9 +22,16 @@ Busco evolução contínua, boas práticas de código e aprendizado em **tecnolo
 
 ---
 
-## 🚀 Projetos em Destaque  
+## 📌 Projetos em Destaque
 
-🔹 [**conex-site-NEXUS-WEB**](#) — Site institucional desenvolvido para a Nexus Web, com design responsivo e integração de APIs.  
+### 🔹 Sistema CRUD com Node.js e MySQL
+API REST estruturada em padrão MVC com operações CRUD completas.
+🔗 [Ver repositório](LINK_AQUI)
+
+### 🔹 Conex Contadores
+Site institucional responsivo com integração de formulário via EmailJS.
+🔗 https://conexcontadores.com.br
+
 🔹 [**site-ibmemorial**](#) — Projeto voltado para memorial digital, com layout limpo e navegação intuitiva.  
 
 
