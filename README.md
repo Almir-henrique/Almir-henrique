@@ -1,82 +1,217 @@
-# Henrique Dantas
-**Desenvolvedor Full Stack & Analista de Dados**  
-*Graduando em Análise e Desenvolvimento de Sistemas (Conclusão em 2026)*[cite: 5]  
-📍 Recife, Pernambuco, Brasil[cite: 5]  
+# 👋 Olá, eu sou Henrique Dantas
+
+
+
+💻 Estudante de Tecnologia da Informação | Desenvolvedor Web | Analista de Suporte
+
+📊 Power BI • SQL • ETL • Análise de Dados
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+📍 Recife - PE, Brasil
+
+
+
+Atuo com desenvolvimento web, suporte técnico e análise de dados, buscando construir soluções tecnológicas eficientes e escaláveis.
+
+
+
+Tenho foco em evolução contínua, boas práticas de código e desenvolvimento de soluções envolvendo front-end, back-end, banco de dados e Business Intelligence.
+
+
 
 ---
 
-### 💻 Perfil Profissional
 
-Profissional focado no desenvolvimento de sistemas web escaláveis, suporte técnico e análise de dados estratégica[cite: 5]. Experiência na construção de aplicações Full Stack (Node.js, Express, React, TypeScript), estruturação de bancos de dados relacionais e não-relacionais (MySQL, PostgreSQL, MongoDB), fluxos ETL e dashboards executivos em Power BI[cite: 5].
 
----
+## 🚀 Stack Tecnológica
 
-### 🚀 Stack Tecnológica
 
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Front-end** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Tailwind CSS[cite: 5] |
-| **Back-end** | Node.js, Express.js, APIs RESTful, Arquitetura MVC, Autenticação/JWT[cite: 5] |
-| **Banco de Dados** | MySQL, PostgreSQL, MongoDB, SQL (Complex Queries, CRUD), Modelagem Relacional[cite: 5] |
-| **Análise de Dados & BI** | Power BI, ETL, Modelagem de Dados, Dashboards Interativos, Excel Avançado[cite: 5] |
-| **Infraestrutura & Suporte** | Redes TCP/IP, DNS, DHCP, Ambientes Windows e Linux, Atendimento N1/N2[cite: 5] |
-| **DevOps & Ferramentas** | Git, GitHub, Docker, Nginx, Postman, VS Code[cite: 5] |
 
----
+### 🖥️ Desenvolvimento Web
 
-### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almir-henrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almir-henrique&layout=compact&theme=dark&hide=css,html"/>
-</p>
 
----
+* HTML5
 
-### 🛠️ Projetos em Destaque
+* CSS3
 
-#### 01. Sistema CRUD Full Stack
-* **Descrição:** Aplicação web com API RESTful estruturada sob o padrão arquitetural MVC, integração com MySQL e autenticação[cite: 5].
-* **Tecnologias:** Node.js, Express.js, MySQL, JavaScript[cite: 5].
-* **Recursos:** Operações CRUD completas, conexão otimizada com banco relacional e tratamento de requisições back-end[cite: 5].
-* **Link:** [Acessar Repositório](https://github.com/Almir-henrique/crud-fullstack-app)[cite: 5]
+* JavaScript (ES6+)
 
-#### 02. Conex Contadores — Plataforma Institucional
-* **Descrição:** Aplicação web institucional desenvolvida para conversão de leads e posicionamento digital[cite: 5].
-* **Tecnologias:** HTML5, CSS3, JavaScript, EmailJS[cite: 5].
-* **Recursos:** Integração direta de formulários via API sem necessidade de servidor próprio e navegação fluida totalmente responsiva[cite: 5].
-* **Link:** [Acessar Repositório](https://github.com/Almir-henrique/CONEX-SITE) | [Ver Site em Produção](https://conexcontadores.com.br)[cite: 5]
+* Node.js
 
-#### 03. Nexus Ponto — MVP
-* **Descrição:** Sistema web para gestão, controle e registro de ponto eletrônico corporativo.
-* **Tecnologias:** Node.js, Express, JavaScript, HTML5/CSS3, MySQL.
-* **Recursos:** Arquitetura modular, controle de horários em tempo real e relatórios de jornada.
-* **Link:** [Acessar Repositório](https://github.com/Almir-henrique/nexus-ponto-mvp)
+* Express
 
----
+* APIs REST
 
-### 🛠️ Ferramentas & Linguagens
+* Arquitetura MVC
+
+
+
+### 📊 Dados e BI
+
+
+
+* Power BI
+
+* SQL
+
+* ETL
+
+* Modelagem de Dados
+
+* Dashboards Interativos
+
+
+
+### 🌐 Infraestrutura e Suporte
+
+
+
+* Windows
+
+* Noções de Linux
+
+* Redes TCP/IP
+
+* DNS e DHCP
+
+* Suporte Técnico
+
+
+
+### 🗄️ Banco de Dados
+
+
+
+* MySQL
+
+* SQL (CRUD)
+
+* Modelagem Relacional
+
+
+
+### 🧰 Ferramentas
+
+
+
+* Git & GitHub
+
+* VS Code
+
+
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
 </p>
+
+
 
 ---
 
-### ✉️ Contato Direto
 
-* **E-mail Corporativo:** [Almirhenrique18@gmail.com](mailto:Almirhenrique18@gmail.com)[cite: 5]
-* **LinkedIn:** [linkedin.com/in/henrique-dantas-profile](https://www.linkedin.com/in/henrique-dantas-profile)[cite: 5]
-* **GitHub:** [github.com/Almir-henrique](https://github.com/Almir-henrique)[cite: 5]
+
+## 📌 Projetos em Destaque
+
+
+
+### 🔹 Sistema CRUD com Node.js e MySQL
+
+
+
+API REST estruturada em padrão MVC com operações CRUD completas.
+
+
+
+🔗 [Ver repositório](LINK_AQUI)
+
+
+
+---
+
+
+
+### 🔹 Conex Contadores
+
+
+
+Site institucional responsivo com integração de formulário via EmailJS.
+
+
+
+🔗 https://conexcontadores.com.br
+
+
+
+---
+
+
+
+### 🔹 site-ibmemorial
+
+
+
+Projeto em desenvolvimento voltado para presença digital da Igreja Batista Memorial do Recife, com foco em estrutura escalável e futuras integrações com API e banco de dados.
+
+
+
+---
+
+
+
+## 📫 Contato
+
+
+
+📧 Email: [almirhenrique18@gmail.com](mailto:almirhenrique18@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/henrique-dantas-profile
+
+
+
+---
+
+
+
+## 🌎 Sobre mim
+
+
+
+🇧🇷 Brasileiro
+
+🗣️ Português | Aprendendo Inglês
+
+🚀 Interessado em oportunidades nas áreas de suporte técnico, desenvolvimento web e análise de dados.
+
+
+
+---
+
+
+
+⭐ *"A tecnologia move o mundo, mas a curiosidade é o que o faz evoluir."*
+
+
+
+
+
+consegue deixar meu Readme do meu repositorio pessoal, apresentação de empresa, com graficos, bem tecnologico, sem emogis fofinfos, colocando meus projetos com ferramentas e linguagens usadas.. stacks e desevolvimento fulstack, estou no ultimo ano da faculdade agr 
+
 
 
 <p align="center">
